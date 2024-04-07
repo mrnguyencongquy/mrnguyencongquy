@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### I am a Data Engineer
 ![I am a Data Engineer](https://camo.envatousercontent.com/21760461f485e6f4ef83fd981f9b0af9db66637c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543870656c4d59427361317147583867552f67697068792e676966)
 
-I'm Quy from VietNam, and I'm working on Data Engineer and Reporter. I'm constantly fascinated by the opportunity to learn new skills and use them to build the future.
+I'm constantly fascinated by the opportunity to learn new skills and use them to build the future.
 
 Skills: Python / SQL & NoSQL databases / Could Platform  / Docker & Docker Compose 
 
