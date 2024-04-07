@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm Quy from VietNam, and I'm working on Data Engineer and Reporter. I really enjoy leanring up skills to build a new things to our world.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnguyencongquy)](https://github.com/anuraghazra/github-readme-stats)
+[![QuyNguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnguyencongquy)](https://github.com/anuraghazra/github-readme-stats)
