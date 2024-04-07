@@ -22,21 +22,31 @@ Here are some ideas to get you started:
 
 
 🔭 I am a data engineer passionate about building and managing data pipelines that empower data-driven decision making. My expertise lies in leveraging various technologies to tackle complex data challenges.
+
 🌱 I'm constantly fascinated by the opportunity to learn new skills and use them to build the future.
 
-Key Skills:
+🌱🌱 Key Skills:
 
 Programming: Python
+
 Databases: SQL & NoSQL (familiarity with various options)
+
 Cloud Platforms: AWS, Azure, GCP
+
 Containerization: Docker & Docker Compose
-Big Data: Apache Spark, Hadoop (familiarity)
-Data Orchestration: Airflow, Databricks (familiarity)
+
+Big Data: Apache Spark, Hadoop,...
+
+Data Orchestration: Airflow, Databricks
+
 Data Visualization: Power BI, Tableau
-Experience:
+
+🌱🌱 Experience:
 
 Successfully applied Apache Spark and Cloud Platforms to build and manage ETL jobs for efficient data processing.
+
 Possess strong knowledge of large-scale data processing frameworks and orchestration tools like Hadoop, Apache Spark, Airflow, and Databricks.
+
 Adept at data visualization using Power BI and Tableau to create insightful reports that communicate data effectively.
 
 
