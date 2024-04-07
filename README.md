@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 
 ![I am a Data Engineer](https://camo.envatousercontent.com/21760461f485e6f4ef83fd981f9b0af9db66637c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543870656c4d59427361317147583867552f67697068792e676966)
 
-🌱🌱 Key Skills:
 
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🌱🌱 Key Skills:</h3>
 
 Programming: Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
@@ -40,7 +38,7 @@ Data Visualization: Power BI, Tableau
 
 Others:  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>,  Django <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>,   Flask <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>,  FastAPI,  NGINX <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>,   OpenCV <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>,   Pandas  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>,   Scikit-learn <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>,    Figma <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
-🌱🌱 Experience:
+<h3 align="left">🌱🌱 Experience:</h3>
 
   🔭 Successfully applied Apache Spark and Cloud Platforms to build and manage ETL jobs for efficient data processing.
 
@@ -49,7 +47,9 @@ Others:  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img s
   🔭 Adept at data visualization using Power BI and Tableau to create insightful reports that communicate data effectively.
 
 
-🌱🌱  I'm constantly fascinated by the opportunity to learn new skills and use them to build the future.
+
+<h3 align="center">🌱🌱🌱🌱  I'm constantly fascinated by the opportunity to learn new skills and use them to build the future.  🌱🌱🌱🌱 </h3>
+
 
 
 
